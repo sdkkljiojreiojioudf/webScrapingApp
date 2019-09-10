@@ -1,0 +1,20 @@
+div {
+  border: 1px solid black;
+}
+
+.containerCentered {
+  width: 100%;
+  margin: auto;
+  padding: 0;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+}
+
+.keyWordGraph {
+  margin-top: 2em;
+}
+
+.titleChart{
+    font-size: 25px;
+}

@@ -1,3 +1,4 @@
 .vscode/
 .idea/
 .history
+node_modules/
