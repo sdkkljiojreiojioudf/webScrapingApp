@@ -1,0 +1,15 @@
+Objectif : Une fonction qui va récupèrer pour chaque mot clé le nombre de ventes, 
+et va calculer une moyenne
+Pour chaque mot clé la fonction doit pouvoir récupèrer tout les nombres de ventes 
+sur 5 pages d'après les conseils d'Idriss
+
+
+Input : ['football', 'computer', 'puzzle']
+
+Output : 
+[
+	{" keyword" : "football", "averageSalesNumberOnFivePage": 43 },
+	{" keyword" : "computer", "averageSalesNumberOnFivePage": 6 },
+	{" keyword" : "puzzle", "averageSalesNumberOnFivePage": 9 },
+]
+	
