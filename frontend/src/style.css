@@ -32,9 +32,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-div{
-  border:0px solid rgba(255,129,0.2,0.32);
-}
 
 .App{
   width:100%;

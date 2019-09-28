@@ -164,3 +164,118 @@ JavaScript warning: https://i.alicdn.com/ae-header/20190108161825/buyer/front/ae
 WebGL(00000222E0965000)::ForceLoseContext
 WebGL(00000222E8264800)::ForceLoseContext
 [Parent 5812, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1569238465782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\benja\\AppData\\Local\\Temp\\rust_mozprofile.QLMzrAKpT4ou"
+1569238466116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569238466116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569238466116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569238466116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569238467544	Marionette	INFO	Listening on port 54402
+1569238467795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+WebGL(0000022341684000)::ForceLoseContext
+WebGL(00000223461C2800)::ForceLoseContext
+[Parent 73688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/widget/list/model.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/widget/list/model.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20170208145626/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20170208145626/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/module/sns/index.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/module/sns/index.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/bestselling/bestselling-index.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/bestselling/bestselling-index.js, line 5: unreachable code after return statement
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(20,24000) Code: 0x80070057 format 0
+WebGL(0000022341680000)::ForceLoseContext
+WebGL(00000223475CA800)::ForceLoseContext
+[Parent 73688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 73688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 50288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc[_channel_win.cc, line 341
+Parent 73688, Gecko[Ch_IOThilread] WARNdING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 74552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 74552, Chrome_ChildThread] WAR[Parent 73688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 35604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 35604, Chrome_Chi1569238476287	Marionette	INFO	Stopped listening on port 54402
+[GPU 66532,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569544938681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\benja\\AppData\\Local\\Temp\\rust_mozprofile.TgslMxdD6qHT"
+1569544939507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569544939508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569544939508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569544939508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569544941096	Marionette	INFO	Listening on port 59445
+1569544941298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+WebGL(000002644A65E800)::ForceLoseContext
+WebGL(0000026451B84000)::ForceLoseContext
+[Parent 116776, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/widget/list/model.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/widget/list/model.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/module/sns/index.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/module/sns/index.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20170208145626/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20170208145626/buyer/front/ae-header.js, line 4: unreachable code after return statement
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(20,24000) Code: 0x80070057 format 0
+WebGL(0000026447C3E000)::ForceLoseContext
+WebGL(0000026451B83000)::ForceLoseContext
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/bestselling/bestselling-index.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/bestselling/bestselling-index.js, line 5: unreachable code after return statement
+[Parent 116776, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 116776, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 115264, Chrome_ChildThread] WARNING: pipe [Parent 116error: 109: file z:/ta776sk_15, Gecko_IOThread] WARNING:6686433 pipe error: 106/build/src/i9: file z:/tpc/chromiuask_15m/src/chro668643me/commo36/build/src/ipc/chromium/src/chrome/comn/ipc_chamon/ipnnel_winc_chan.cc, line 341
+nel_win.cc, line 341
+[Child 114416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 114416, [Parent 116776, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 113888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 113888, Chrom1569544976378	Marionette	INFO	Stopped listening on port 59445
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569593767478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\benja\\AppData\\Local\\Temp\\rust_mozprofile.Bvr9UHx0cXP9"
+1569593811585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\benja\\AppData\\Local\\Temp\\rust_mozprofile.jEeagWhlTZEO"
+1569593812442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569593812443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569593812443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569593812443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569593815444	Marionette	INFO	Listening on port 57915
+1569593815760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190718134354/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+WebGL(0000019188E5B000)::ForceLoseContext
+WebGL(0000019188E69800)::ForceLoseContext
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/widget/list/model.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/widget/list/model.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/module/sns/index.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-ams-ui/1.1.1/module/sns/index.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/bestselling/bestselling-index.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-channel-ui/1.1.0/bestselling/bestselling-index.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20170208145626/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20170208145626/buyer/front/ae-header.js, line 4: unreachable code after return statement
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(20,24000) Code: 0x80070057 format 0
+WebGL(0000019188E54000)::ForceLoseContext
+WebGL(0000019191BD8000)::ForceLoseContext
+[Parent 127348, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 127348, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 127748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Child 127748, hild 127864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 127864, Chrome_ChildThr[Parent 127348, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1569594033234	Marionette	INFO	Stopped listening on port 57915
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

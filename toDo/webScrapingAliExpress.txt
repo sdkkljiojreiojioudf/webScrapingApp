@@ -6,6 +6,14 @@ sur 5 pages d'après les conseils d'Idriss
 
 Input : ['football', 'computer', 'puzzle']
 
+
+worfflow: 
+method qui prend le mot clé et le cherche sur aliexpress, change de pages
+method qui prend en param l'url d'une page et qui retourne une moyenne du nombre de ventes
+method qui prend en param moyenne, mot clé et envoit au serveur
+
+
+
 Output : 
 [
 	{" keyword" : "football", "averageSalesNumberOnFivePage": 43 },

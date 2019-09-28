@@ -8,5 +8,5 @@ class Keyword(models.Model):
 
 class Result(models.Model):
     keyword = models.ForeignKey(Keyword, on_delete=models.CASCADE)
-    date = models.DateField(auto_now_add=True)
+    date = models.DateField(auto_now_add=False)
     nb_sale = models.IntegerField(null=True)
